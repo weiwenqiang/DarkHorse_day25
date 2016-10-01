@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">day25</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="day25_b1">电话拨号器</string>
+    <string name="day25_b2">四种点击事件</string>
+    <string name="day25_b3">短信发送</string>
+    
+	<string name="day25_dial">拨打</string>
+	<string name="day25_nm">匿名类</string>
+	<string name="day25_nb">内部类</string>
+    <string name="day25_jk">实现接口</string>
+    <string name="day25_xml">设置XML</string>
+    <string name="day25_goal">请输入对方号码</string>
+    <string name="day25_content">请输入短信内容</string>
+    <string name="day25_send">发送</string>
+	
+</resources>
